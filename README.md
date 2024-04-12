@@ -61,6 +61,7 @@ plt.axis('on')
 
 ```
 ## Output:
+![image](https://github.com/KothaiKumar/erosion-dilation/assets/121215739/7a8de593-0e8e-4d6c-a4e4-8cbc9db82f45)
 
 
 ## Result
